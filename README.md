@@ -39,6 +39,9 @@ A simple and efficient To-Do List web application built with React. Users can ad
 - Local Storage for data persistence 💾
 - Tailwind CSS for styling 🎨
 
+##🌍 Live Demo
+Here is the deployed appliction: [Todo-list](https://todo-list-phi-sand.vercel.app/)
+
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
